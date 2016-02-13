@@ -1,13 +1,15 @@
 # Duane Winkel Jr. - DWP
 
 ## Server links
-(http://162.243.79.208/) - Staging Server
-(http://162.243.109.42/) - Production Server
+
+http://162.243.79.208/ - Staging Server
+
+http://162.243.109.42/ - Production Server
 
 
 
 ## Deployment Plan
-git 
+
 1. Create Droplet on Digital Ocean
 
 2. ssh into your server
@@ -34,6 +36,7 @@ git
     1. git remote add name server/location/file/path
     
 9. git push name
+    1. will send your files to your server
     
     
         
